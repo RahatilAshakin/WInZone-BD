@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "English Willow Cricket Bat",
+      "category": "Cricket",
+      "description": "Professional grade bat for powerful strokes.",
+      "price": 129.99,
+      "stock": 10,
+      "image": "https://example.com/images/cricket-bat.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cricket Ball (Leather)",
+      "category": "Cricket",
+      "description": "Red leather ball, suitable for all formats.",
+      "price": 14.99,
+      "stock": 50,
+      "image": "https://example.com/images/cricket-ball.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cricket Helmet",
+      "category": "Cricket",
+      "description": "Safety helmet with grill for head protection.",
+      "price": 49.99,
+      "stock": 15,
+      "image": "https://example.com/images/cricket-helmet.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cricket Pads",
+      "category": "Cricket",
+      "description": "Leg guards with extra knee padding.",
+      "price": 39.99,
+      "stock": 20,
+      "image": "https://example.com/images/cricket-pads.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cricket Gloves",
+      "category": "Cricket",
+      "description": "Batting gloves with high grip and protection.",
+      "price": 19.99,
+      "stock": 30,
+      "image": "https://example.com/images/cricket-gloves.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Standard Football",
+      "category": "Football",
+      "description": "Durable size 5 ball for training and matches.",
+      "price": 24.99,
+      "stock": 40,
+      "image": "https://example.com/images/football.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Football Goal Net",
+      "category": "Football",
+      "description": "Portable goal post for backyard or field.",
+      "price": 89.99,
+      "stock": 5,
+      "image": "https://example.com/images/goal-net.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Football Shoes",
+      "category": "Football",
+      "description": "Studded boots for firm grip on turf.",
+      "price": 49.99,
+      "stock": 25,
+      "image": "https://example.com/images/football-shoes.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Football Shin Guards",
+      "category": "Football",
+      "description": "Protective gear for legs during matches.",
+      "price": 15.00,
+      "stock": 60,
+      "image": "https://example.com/images/shin-guards.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Referee Whistle",
+      "category": "Football",
+      "description": "High-pitched metal whistle for official use.",
+      "price": 5.99,
+      "stock": 100,
+      "image": "https://example.com/images/whistle.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Men’s Sports Jersey",
+      "category": "Clothing",
+      "description": "Breathable and quick-dry sports shirt.",
+      "price": 21.99,
+      "stock": 45,
+      "image": "https://example.com/images/mens-jersey.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Women’s Sports Tights",
+      "category": "Clothing",
+      "description": "Stretchable workout leggings.",
+      "price": 29.99,
+      "stock": 38,
+      "image": "https://example.com/images/womens-tights.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Hooded Track Jacket",
+      "category": "Clothing",
+      "description": "Warm and stylish track jacket.",
+      "price": 39.99,
+      "stock": 22,
+      "image": "https://example.com/images/track-jacket.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sports Shorts",
+      "category": "Clothing",
+      "description": "Lightweight and flexible shorts.",
+      "price": 17.50,
+      "stock": 50,
+      "image": "https://example.com/images/sports-shorts.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Compression Shirt",
+      "category": "Clothing",
+      "description": "Enhances performance and recovery.",
+      "price": 25.00,
+      "stock": 33,
+      "image": "https://example.com/images/compression-shirt.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Badminton Racket",
+      "category": "Badminton",
+      "description": "Lightweight carbon fiber racket.",
+      "price": 59.99,
+      "stock": 28,
+      "image": "https://example.com/images/badminton-racket.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Shuttlecock Pack",
+      "category": "Badminton",
+      "description": "Pack of 12 feather shuttlecocks.",
+      "price": 18.99,
+      "stock": 60,
+      "image": "https://example.com/images/shuttlecock.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Badminton Net",
+      "category": "Badminton",
+      "description": "Portable and easy-to-set-up net.",
+      "price": 34.99,
+      "stock": 10,
+      "image": "https://example.com/images/badminton-net.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Wrist Sweatbands",
+      "category": "Badminton",
+      "description": "Keeps sweat away from hands.",
+      "price": 6.99,
+      "stock": 100,
+      "image": "https://example.com/images/wristband.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Badminton Kit Bag",
+      "category": "Badminton",
+      "description": "Spacious bag for rackets and accessories.",
+      "price": 27.50,
+      "stock": 15,
+      "image": "https://example.com/images/badminton-bag.jpg"
+    }
+  ]
+  
